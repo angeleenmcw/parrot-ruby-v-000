@@ -3,5 +3,3 @@
 def parrot(phrase ="Squawk!")
   puts "What does the parrot say? #{phrase}"
 end
-
-parrot("Pretty Bird")
